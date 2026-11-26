@@ -15,6 +15,9 @@ The application successfully manages student records using Java and MySQL.
 5. Exit
 
 Enter your choice:
+Priya S
+keerthana E
+Srimathi 
 ```
 
 ### Technologies Used
